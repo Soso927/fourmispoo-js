@@ -1,6 +1,5 @@
 // Vous mettrez ici le code de la classe Reine
-// import Reine from './Fourmi.js'; 
-class Reine extends Fourmi 
+ class Reine extends Fourmi 
 {
     #nbOeufsPondus;
 
@@ -26,4 +25,4 @@ class Reine extends Fourmi
 
 }
 
-export default Reine;
+// export default Reine;
